@@ -8,8 +8,13 @@
             "name": "Dart",
             "type": "dart",
             "request": "launch",
-            "program": "main.dart"
+            "program": "hello.dart",
+
+            "args": [
+			"one", "two",
+		],
         }
-    
+        
+       
     ]
 }
